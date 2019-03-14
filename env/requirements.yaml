@@ -7,6 +7,9 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.89
+- name: jenkinsx-test-python-app
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.7
 - name: jx-test-py2
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
